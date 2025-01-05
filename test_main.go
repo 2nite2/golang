@@ -4,4 +4,5 @@ import myPackage "GoLangStudy/11-reflect"
 
 func main() {
 	myPackage.Test6_json()
+	myPackage.Test6_json()
 }
